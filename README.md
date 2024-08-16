@@ -8,3 +8,7 @@ git push y
 git commit
 
 # Prueba
+
+"git check out (nombre de la rama)" es para cambiar entre ramas
+
+Holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
