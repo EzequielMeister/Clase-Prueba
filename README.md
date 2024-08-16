@@ -3,9 +3,9 @@
 # Profesor: Matias Duro Carmona
 
 # Comandos que mas se usan:
-git add,
-git push y
-git commit
+* git add (Para agregar cosas)
+* git push (Para pre subir el cambio)
+* git commit (una vez que se agrega el cambio y se lo deja para subir, con el commit se finaliza y queda modificado)
 
 # Prueba
 
